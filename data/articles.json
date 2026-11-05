@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "bitcoin-alapok",
+    "title": "Bitcoin: miért több egy digitális pénznél?",
+    "category": "Bitcoin és monetáris rendszerek",
+    "series": "Bitcoin alapok",
+    "order": 1,
+    "date": "2026-11-05",
+    "tags": [
+      "Bitcoin",
+      "blokklánc",
+      "pénz"
+    ],
+    "summary": "Közös nyilvántartás, ellenőrizhető szabályok és a digitális pénz alapjai.",
+    "url": "/hu/cikkek/bitcoin-alapok/"
+  },
+  {
+    "slug": "privat-kulcsok",
+    "title": "Cryptotárca és privát kulcs: mit őrzünk valójában?",
+    "category": "Cryptotárcák és önkustódia",
+    "series": "Bitcoin alapok",
+    "order": 2,
+    "date": "2026-11-05",
+    "tags": [
+      "privát kulcs",
+      "cryptotárca",
+      "önkustódia"
+    ],
+    "summary": "A hozzáférés, a biztonsági mentés és a saját kulcskezelés közérthetően.",
+    "url": "/hu/cikkek/privat-kulcsok/"
+  }
+]
