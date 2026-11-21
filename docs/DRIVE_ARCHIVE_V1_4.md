@@ -3,7 +3,9 @@
 Status: STAGING DESIGN ONLY. No Drive credentials, external writes or scheduled jobs in this branch.
 
 ## Owner-configured target
-- Owner selected Google Drive B account: email@yanoshkatona.com (2026-11-21). This is the sole archive destination; do not use Primary.
+- Preferred archive destination: Drive B, email@yanoshkatona.com (owner decision 2026-11-21).
+- Owner-approved fallback if Drive B archive upload/readback fails: Primary Drive, mail@yanoshkatona.com. Verify Primary folder creation and upload/readback before switching the active configured destination.
+- Never silently split one publication between accounts; select one verified destination per publishing operation and log which account was used. If both fail, block publication. Do not automatically repeat failed writes without reconciling their result.
 - Logical root: `BitKultur Publications/{year}/{language}/{publication_id}/`.
 - Valid languages: hu, en, de, ru. Publication ID is immutable and globally unique.
 
