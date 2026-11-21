@@ -1,5 +1,24 @@
 [
   {
+    "slug": "ballet-bitcoin-gift",
+    "title": "Bitcoin ajándékba? Miért is ne!",
+    "category": "Bitcoin a mindennapokban",
+    "series": "Bitcoin a mindennapokban",
+    "order": 1,
+    "date": "2026-11-21",
+    "reading_minutes": 7,
+    "tags": [
+      "Bitcoin",
+      "Ballet",
+      "ajándékozás",
+      "hidegtárolás",
+      "digitális önrendelkezés",
+      "satoshi"
+    ],
+    "summary": "Ünnepi Bitcoin-ajándékötletek: Ballet ajándékkártya, satoshi, hidegtárolás és a digitális önrendelkezés.",
+    "url": "/hu/cikkek/ballet-bitcoin-gift/"
+  },
+  {
     "slug": "bitcoin-alapok",
     "title": "Bitcoin: miért több egy digitális pénznél?",
     "category": "Bitcoin és monetáris rendszerek",
