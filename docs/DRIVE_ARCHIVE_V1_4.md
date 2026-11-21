@@ -3,7 +3,7 @@
 Status: STAGING DESIGN ONLY. No Drive credentials, external writes or scheduled jobs in this branch.
 
 ## Owner-configured target
-- Google Drive account and destination folder must be unambiguously selected before any archive test/write.
+- Owner selected Google Drive B account: email@yanoshkatona.com (2026-11-21). This is the sole archive destination; do not use Primary.
 - Logical root: `BitKultur Publications/{year}/{language}/{publication_id}/`.
 - Valid languages: hu, en, de, ru. Publication ID is immutable and globally unique.
 
@@ -37,7 +37,7 @@ Status: STAGING DESIGN ONLY. No Drive credentials, external writes or scheduled 
 - The current GitHub Pages workflow deploys each `main` push: do not merge until release gate is configured and accepted.
 
 ## Pending checks
-- Owner selection of Google Drive A (Primary) or Drive B (separate linked account).
+- Owner account selection COMPLETE: Drive B, email@yanoshkatona.com.
 - Authorized test folder and a reversible non-public specimen with actual read-back.
 - Browser viewport and accessibility regression test (desktop/tablet/mobile).
 - Actual destination/link verification for EN/DE/Lexikon Telegram channels.
