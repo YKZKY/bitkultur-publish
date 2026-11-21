@@ -2,7 +2,7 @@
 
 **Egy különleges ajándék, amely akár egy új világ megismerésének kezdete is lehet.**
 
-Képzeljünk el egy ünnepi családi vacsorát. A család összegyűlt, az asztalon finomságok, mindenki beszélget, amikor valaki egyszer csak felteszi a kérdést:
+Az ünnepi családi vacsorán előbb-utóbb a Bitcoin is szóba kerülhet. Valaki kíváncsian megkérdezi:
 
 *„Tulajdonképpen mi is az a Bitcoin?”*
 
@@ -20,11 +20,11 @@ Ez lehet néhány ezer satoshi — vagy egy nagyobb, hosszabb távra szánt ajá
 
 [**Ballet Bitcoin Gift Card – hivatalos termékoldal**](https://store.ballet.com/products/custom-bitcoin-gift-card?variant=43321363038371)
 
-## Egy satoshi is lehet jó beszélgetés kezdete
+## Mit jelent a satoshi?
 
-A **satoshi (röviden: sat)** a Bitcoin legkisebb egysége: **1 bitcoin = 100 millió satoshi**. A neve Satoshi Nakamotóra utal, aki 2008-ban közzétette a Bitcoin eredeti leírását. Nem kell tehát egész bitcoint ajándékoznunk ahhoz, hogy valakit megismertessünk a működésével.
+A **satoshi (röviden: sat)** a Bitcoin legkisebb egysége: **1 bitcoin = 100 millió satoshi**. Az elnevezés Satoshi Nakamoto nevéhez kapcsolódik. A Bitcoin eredeti leírását 2008-ban tette közzé. Nem kell tehát egész bitcoint ajándékoznunk ahhoz, hogy valakit megismertessünk a működésével.
 
-De miért volt szükség egy új digitális pénzrendszerre? A Bitcoin terve 2008 őszén, a pénzügyi válság idején jelent meg, amikor a bankokba és a pénzügyi intézményekbe vetett bizalom széles körben vita tárgyává vált. Az eredeti tanulmány célja egy olyan **közvetlen elektronikus fizetési rendszer** bemutatása volt, amelyben az elszámoláshoz nincs szükség egyetlen kötelező központi közvetítőre.
+Miért merült fel egy új digitális pénzrendszer szükségessége? A Bitcoin terve 2008 őszén, a pénzügyi válság idején jelent meg, amikor a bankokba és a pénzügyi intézményekbe vetett bizalom széles körben vita tárgyává vált. Az eredeti tanulmány célja egy olyan **közvetlen elektronikus fizetési rendszer** bemutatása volt, amelyben az elszámoláshoz nincs szükség egyetlen kötelező központi közvetítőre.
 
 Ennek egyik kulcskérdése a **dupla költés**. Egy digitális fájlt könnyű lemásolni; de hogyan akadályozzuk meg, hogy valaki ugyanazt a digitális pénzegységet két különböző helyen elköltse? A hagyományos elektronikus fizetéseknél a bankok és az elszámolási rendszerek központi nyilvántartással akadályozzák meg az ilyen ellentmondásokat. A Bitcoin más úton jár: a hálózat résztvevői közös szabályok, ellenőrizhető tranzakciók és a *proof-of-work* (számítási munkával igazolt blokklétrehozás) segítségével egyeznek meg a tranzakciók sorrendjéről. Így a Bitcoin hálózata nem igényel egyetlen intézményt a dupla költés megelőzéséhez. A megerősítések száma növeli a tranzakció visszafordításával szembeni biztonságot, de a rendszer nem mentes minden kockázattól.
 
@@ -40,9 +40,9 @@ A Bitcoin ilyenkor sem magában a fémkártyában található: a blockchain nyil
 
 ## Néha nem az ajándék értéke a legfontosabb
 
-Egy Bitcoin-ajándékkártya nem csupán néhány satoshit jelenthet. Lehet egy beszélgetés kezdete a pénzről, a technológiáról, a biztonságról és a digitális önrendelkezésről. Egy idősebb családtag talán a pénz változásáról mesél; egy fiatalabb a hálózat működésére kérdez rá. Az ünnepi asztalnál mindkettőnek jut hely.
+Egy Bitcoin-ajándékkártya nem csupán néhány satoshit jelenthet. Alkalmat adhat arra, hogy a családtagok megosszák egymással, mit gondolnak a pénzről, a technológiáról, a biztonságról és a digitális önrendelkezésről. A különböző generációk tapasztalatai új nézőpontokat adhatnak egymásnak.
 
-És ki tudja? Talán éppen ez az apró ajándék válik a következő generáció számára egy egész életre szóló érdeklődés kezdetévé.
+Talán éppen egy ilyen apró ajándék ébreszt tartós érdeklődést a következő generációban.
 
 ---
 
