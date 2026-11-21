@@ -6,6 +6,7 @@
     "series": "Bitcoin alapok",
     "order": 1,
     "date": "2026-11-05",
+    "reading_minutes": 4,
     "tags": [
       "Bitcoin",
       "blokklánc",
@@ -17,16 +18,19 @@
   {
     "slug": "privat-kulcsok",
     "title": "Cryptotárca és privát kulcs: mit őrzünk valójában?",
-    "category": "Cryptotárcák és önkustódia",
+    "category": "Cryptotárcák és saját kulcskezelés",
     "series": "Bitcoin alapok",
     "order": 2,
     "date": "2026-11-05",
+    "reading_minutes": 4,
     "tags": [
       "privát kulcs",
       "cryptotárca",
+      "saját kulcskezelés",
+      "non-custodial",
       "önkustódia"
     ],
-    "summary": "A hozzáférés, a biztonsági mentés és a saját kulcskezelés közérthetően.",
+    "summary": "Mit jelent, ha nem egy szolgáltató, hanem mi rendelkezünk a hozzáférést biztosító kulcsok felett?",
     "url": "/hu/cikkek/privat-kulcsok/"
   }
 ]
