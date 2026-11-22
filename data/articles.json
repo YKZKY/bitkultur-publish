@@ -1,5 +1,24 @@
 [
   {
+    "slug": "kie-valojaban-a-penzunk",
+    "title": "Kié valójában a pénzünk, amikor már nem készpénzben tartjuk?",
+    "category": "Gazdasági ismeretek",
+    "series": "Pénzügyi önállóság",
+    "order": 1,
+    "date": "2026-11-22",
+    "reading_minutes": 14,
+    "tags": [
+      "pénz",
+      "bankbetét",
+      "digitális euró",
+      "Bitcoin",
+      "betétbiztosítás",
+      "pénzügyi önállóság"
+    ],
+    "summary": "Bankbetétek, digitális euró és Bitcoin – három különböző kapcsolat a pénzünkhöz.",
+    "url": "/hu/cikkek/kie-valojaban-a-penzunk/"
+  },
+  {
     "slug": "ballet-bitcoin-gift",
     "title": "Bitcoin ajándékba? Miért is ne!",
     "category": "Bitcoin a mindennapokban",
