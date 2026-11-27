@@ -1,5 +1,26 @@
 [
   {
+    "slug": "bitcoin-halozat-finanszirozasa",
+    "title": "Ki finanszírozza a Bitcoin hálózatát, amikor elfogy a blokkjutalom?",
+    "category": "Bitcoin és monetáris rendszerek",
+    "series": "Bitcoin alapok",
+    "order": 3,
+    "date": "2026-11-27",
+    "reading_minutes": 8,
+    "tags": [
+      "Bitcoin",
+      "bányászat",
+      "blokkjutalom",
+      "blokktámogatás",
+      "felezés",
+      "tranzakciós díj",
+      "hashrate",
+      "hálózati biztonság"
+    ],
+    "summary": "Blokktámogatás, felezés és tranzakciós díjak: miből származik a bányászok bevétele, és mit tudunk a Bitcoin hosszú távú biztonságáról?",
+    "url": "/hu/cikkek/bitcoin-halozat-finanszirozasa/"
+  },
+  {
     "slug": "kie-valojaban-a-penzunk",
     "title": "Kié valójában a pénzünk, amikor már nem készpénzben tartjuk?",
     "category": "Gazdasági ismeretek",
